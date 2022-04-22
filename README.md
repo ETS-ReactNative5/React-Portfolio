@@ -1,6 +1,6 @@
 # React Portfolio Project
 
-<p>This project is based on Algorand website https://www.algopulse.io/ [march 2022 version] and has been fully built in **ReactJs** </p>
+This project is **based on** Algorand website https://www.algopulse.io/ [march 2022 version] and has been fully built in **ReactJs** 
 <p>📦NPM Packages used:</p>
 
 
