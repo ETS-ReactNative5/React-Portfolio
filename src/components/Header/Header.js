@@ -29,7 +29,7 @@ const Header = ({toptitle, title, subtitle}) => {
             <h4> {toptitle} </h4> 
             <div className='header-chrono'>
                 <div className='chrono-item'>
-                    <p>Next Update: NodeJs APi Project</p>
+                    <p>Next Project : NodeJs APi</p>
                 </div>    
                 <div className='chrono-item'>
                     <div className='chrono-text'>

@@ -277,6 +277,9 @@ body {
   }
 
   @media screen and (min-width: 300px) {
+    .header{
+      background-position: center;
+    }
     .header-content {
       max-width: 300px;
     }

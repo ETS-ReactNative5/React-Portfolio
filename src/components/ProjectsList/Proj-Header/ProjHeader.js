@@ -82,8 +82,22 @@ const ProjHeader = ({ title, text}) => {
           <div className='slide-project-header-content'>
             <img src={pict2}  alt="algopict" />
             <div className='slide-project-header-text'>
-                <h4>Api Project</h4>
+                <h4>APi Project</h4>
                 <p>Crypto News</p>
+            </div>
+            </div>
+        </article>
+        </a>
+    </SwiperSlide>
+
+    <SwiperSlide>
+    <a href="https://meta-nests.vercel.app/" target='_blank'>
+        <article className='slide-project-header-container'>
+          <div className='slide-project-header-content'>
+            <img src={pict3}  alt="algopict" />
+            <div className='slide-project-header-text'>
+                <h4>APi Project</h4>
+                <p>Metaverse Real Estate</p>
             </div>
             </div>
         </article>
@@ -104,11 +118,12 @@ const ProjHeader = ({ title, text}) => {
         </a>
     </SwiperSlide>
 
+
     <SwiperSlide>
     <a href="../Projects.js">
         <article className='slide-project-header-container'>
           <div className='slide-project-header-content'>
-            <img src={pict3}  alt="algopict" />
+            <img src={pict1}  alt="algopict" />
             <div className='slide-project-header-text'>
                 <h4> Next Api Project</h4>
                 <p>Coming Soon</p>
