@@ -131,6 +131,7 @@
     padding-top: 1rem;
 }
 
+
 .chrono-item p {
     font-family: var(--font-nunito);
     font-size: var(--font-size-15);
@@ -138,9 +139,13 @@
     font-weight: 600;
 }
 
-.chrono-text {
-    
-}
+@media screen and (min-width: 300px) {
+    .chrono-item{
+        display: inline-block;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+  }
 
 .chrono {
     font-family: var(--font-
