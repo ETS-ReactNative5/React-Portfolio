@@ -105,6 +105,34 @@ const ProjHeader = ({ title, text}) => {
     </SwiperSlide>
 
     <SwiperSlide>
+    <a href="https://github.com/VicThorMetaNode/Node-Api-ECOM" target='_blank'>
+        <article className='slide-project-header-container'>
+          <div className='slide-project-header-content'>
+            <img src={pict2}  alt="algopict" />
+            <div className='slide-project-header-text'>
+                <h4>APi Project</h4>
+                <p>ECOM Restful Api built with NodeJs, ExpressJs using MongoDB</p>
+            </div>
+            </div>
+        </article>
+        </a>
+    </SwiperSlide>
+
+    <SwiperSlide>
+    <a href="../Projects.js">
+        <article className='slide-project-header-container'>
+          <div className='slide-project-header-content'>
+            <img src={pict1}  alt="algopict" />
+            <div className='slide-project-header-text'>
+                <h4> Next Api Project</h4>
+                <p> Community Chat built with NodeJs, ExpressJs using Socket.io -Coming Soon-</p>
+            </div>
+            </div>
+        </article>
+        </a>
+    </SwiperSlide>
+
+    <SwiperSlide>
     <a href="https://webtipity.netlify.app/" target='_blank'>
         <article className='slide-project-header-container'>
           <div className='slide-project-header-content'>
@@ -119,19 +147,6 @@ const ProjHeader = ({ title, text}) => {
     </SwiperSlide>
 
 
-    <SwiperSlide>
-    <a href="../Projects.js">
-        <article className='slide-project-header-container'>
-          <div className='slide-project-header-content'>
-            <img src={pict1}  alt="algopict" />
-            <div className='slide-project-header-text'>
-                <h4> Next Api Project</h4>
-                <p>Coming Soon</p>
-            </div>
-            </div>
-        </article>
-        </a>
-    </SwiperSlide>
     
     <SwiperSlide>
     
