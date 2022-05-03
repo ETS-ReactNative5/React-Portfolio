@@ -11,7 +11,7 @@ This project has been fully built in **ReactJs** and is **based on** Algorand we
 <p>✔️Material-Ui: provides components for faster and easier web development</p>
 <p>✔️Swiper: is the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior</p>
 <p>✔️Rellax: lightweight VanillaJS parallax library for subtle animations</p>
-<p>✔️Redux-ToolKit: package intended to be the standard way to write Redux logic. Includes utilities to simplify common use cases like store setup, creating reducers, ...</p>
+<p>✔️Redux-ToolKit: the standard way to write Redux logic</p>
 
 
 
