@@ -30,7 +30,7 @@ const Header = ({toptitle, title, subtitle}) => {
             <div className='header-chrono'>
                 <div className='chrono-item'>
 
-                    <p>Next Project : NodeJs Community Chat</p>
+                    <p>Next Project : GenFlow website Clone in NextJS</p>
 
                     
                 </div>    
